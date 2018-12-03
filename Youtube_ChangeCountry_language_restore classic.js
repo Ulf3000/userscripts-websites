@@ -15,7 +15,7 @@
 
 
 // youtube restores the cookies to your real country after some time so lets just check everytime 
-// ive set this script to  gl=PH&hl=en  which changes the language and location
+// ive set this script to  gl=PH&hl=en  which changes the language and location to phillipines and english
 // &f6=8  sets the classic youtube ui 
 
 function restoreClassicYoutube() {
